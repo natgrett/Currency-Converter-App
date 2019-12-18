@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E0C82B9F238D826C00C6E9D7 /* iOS4-Pidhorodetska.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS4-Pidhorodetska.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0C82B9F238D826C00C6E9D7 /* Currency Converter Apps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Currency Converter Apps.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0C82BA2238D826C00C6E9D7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0C82BA4238D826C00C6E9D7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E0C82BA6238D826C00C6E9D7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -43,10 +43,10 @@
 		E0C82BAB238D826D00C6E9D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0C82BAE238D826D00C6E9D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0C82BB0238D826D00C6E9D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E0C82BB5238D826D00C6E9D7 /* iOS4-PidhorodetskaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS4-PidhorodetskaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0C82BB5238D826D00C6E9D7 /* Currency Converter AppsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Currency Converter AppsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0C82BB9238D826D00C6E9D7 /* iOS4_PidhorodetskaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS4_PidhorodetskaTests.swift; sourceTree = "<group>"; };
 		E0C82BBB238D826D00C6E9D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E0C82BC0238D826D00C6E9D7 /* iOS4-PidhorodetskaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS4-PidhorodetskaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0C82BC0238D826D00C6E9D7 /* Currency Converter AppsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Currency Converter AppsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0C82BC4238D826D00C6E9D7 /* iOS4_PidhorodetskaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS4_PidhorodetskaUITests.swift; sourceTree = "<group>"; };
 		E0C82BC6238D826D00C6E9D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -89,9 +89,9 @@
 		E0C82BA0238D826C00C6E9D7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E0C82B9F238D826C00C6E9D7 /* iOS4-Pidhorodetska.app */,
-				E0C82BB5238D826D00C6E9D7 /* iOS4-PidhorodetskaTests.xctest */,
-				E0C82BC0238D826D00C6E9D7 /* iOS4-PidhorodetskaUITests.xctest */,
+				E0C82B9F238D826C00C6E9D7 /* Currency Converter Apps.app */,
+				E0C82BB5238D826D00C6E9D7 /* Currency Converter AppsTests.xctest */,
+				E0C82BC0238D826D00C6E9D7 /* Currency Converter AppsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -131,9 +131,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E0C82B9E238D826C00C6E9D7 /* iOS4-Pidhorodetska */ = {
+		E0C82B9E238D826C00C6E9D7 /* Currency Converter Apps */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E0C82BC9238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "iOS4-Pidhorodetska" */;
+			buildConfigurationList = E0C82BC9238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "Currency Converter Apps" */;
 			buildPhases = (
 				E0C82B9B238D826C00C6E9D7 /* Sources */,
 				E0C82B9C238D826C00C6E9D7 /* Frameworks */,
@@ -143,14 +143,14 @@
 			);
 			dependencies = (
 			);
-			name = "iOS4-Pidhorodetska";
+			name = "Currency Converter Apps";
 			productName = "iOS4-Pidhorodetska";
-			productReference = E0C82B9F238D826C00C6E9D7 /* iOS4-Pidhorodetska.app */;
+			productReference = E0C82B9F238D826C00C6E9D7 /* Currency Converter Apps.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E0C82BB4238D826D00C6E9D7 /* iOS4-PidhorodetskaTests */ = {
+		E0C82BB4238D826D00C6E9D7 /* Currency Converter AppsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E0C82BCC238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "iOS4-PidhorodetskaTests" */;
+			buildConfigurationList = E0C82BCC238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "Currency Converter AppsTests" */;
 			buildPhases = (
 				E0C82BB1238D826D00C6E9D7 /* Sources */,
 				E0C82BB2238D826D00C6E9D7 /* Frameworks */,
@@ -161,14 +161,14 @@
 			dependencies = (
 				E0C82BB7238D826D00C6E9D7 /* PBXTargetDependency */,
 			);
-			name = "iOS4-PidhorodetskaTests";
+			name = "Currency Converter AppsTests";
 			productName = "iOS4-PidhorodetskaTests";
-			productReference = E0C82BB5238D826D00C6E9D7 /* iOS4-PidhorodetskaTests.xctest */;
+			productReference = E0C82BB5238D826D00C6E9D7 /* Currency Converter AppsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		E0C82BBF238D826D00C6E9D7 /* iOS4-PidhorodetskaUITests */ = {
+		E0C82BBF238D826D00C6E9D7 /* Currency Converter AppsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E0C82BCF238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "iOS4-PidhorodetskaUITests" */;
+			buildConfigurationList = E0C82BCF238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "Currency Converter AppsUITests" */;
 			buildPhases = (
 				E0C82BBC238D826D00C6E9D7 /* Sources */,
 				E0C82BBD238D826D00C6E9D7 /* Frameworks */,
@@ -179,9 +179,9 @@
 			dependencies = (
 				E0C82BC2238D826D00C6E9D7 /* PBXTargetDependency */,
 			);
-			name = "iOS4-PidhorodetskaUITests";
+			name = "Currency Converter AppsUITests";
 			productName = "iOS4-PidhorodetskaUITests";
-			productReference = E0C82BC0238D826D00C6E9D7 /* iOS4-PidhorodetskaUITests.xctest */;
+			productReference = E0C82BC0238D826D00C6E9D7 /* Currency Converter AppsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -207,7 +207,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E0C82B9A238D826C00C6E9D7 /* Build configuration list for PBXProject "iOS4-Pidhorodetska" */;
+			buildConfigurationList = E0C82B9A238D826C00C6E9D7 /* Build configuration list for PBXProject "Currency Converter Apps" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -220,9 +220,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E0C82B9E238D826C00C6E9D7 /* iOS4-Pidhorodetska */,
-				E0C82BB4238D826D00C6E9D7 /* iOS4-PidhorodetskaTests */,
-				E0C82BBF238D826D00C6E9D7 /* iOS4-PidhorodetskaUITests */,
+				E0C82B9E238D826C00C6E9D7 /* Currency Converter Apps */,
+				E0C82BB4238D826D00C6E9D7 /* Currency Converter AppsTests */,
+				E0C82BBF238D826D00C6E9D7 /* Currency Converter AppsUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -286,12 +286,12 @@
 /* Begin PBXTargetDependency section */
 		E0C82BB7238D826D00C6E9D7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E0C82B9E238D826C00C6E9D7 /* iOS4-Pidhorodetska */;
+			target = E0C82B9E238D826C00C6E9D7 /* Currency Converter Apps */;
 			targetProxy = E0C82BB6238D826D00C6E9D7 /* PBXContainerItemProxy */;
 		};
 		E0C82BC2238D826D00C6E9D7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E0C82B9E238D826C00C6E9D7 /* iOS4-Pidhorodetska */;
+			target = E0C82B9E238D826C00C6E9D7 /* Currency Converter Apps */;
 			targetProxy = E0C82BC1238D826D00C6E9D7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -481,7 +481,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS4-Pidhorodetska.app/iOS4-Pidhorodetska";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Currency Converter Apps.app/Currency Converter Apps";
 			};
 			name = Debug;
 		};
@@ -502,7 +502,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS4-Pidhorodetska.app/iOS4-Pidhorodetska";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Currency Converter Apps.app/Currency Converter Apps";
 			};
 			name = Release;
 		};
@@ -547,7 +547,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E0C82B9A238D826C00C6E9D7 /* Build configuration list for PBXProject "iOS4-Pidhorodetska" */ = {
+		E0C82B9A238D826C00C6E9D7 /* Build configuration list for PBXProject "Currency Converter Apps" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0C82BC7238D826D00C6E9D7 /* Debug */,
@@ -556,7 +556,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E0C82BC9238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "iOS4-Pidhorodetska" */ = {
+		E0C82BC9238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "Currency Converter Apps" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0C82BCA238D826D00C6E9D7 /* Debug */,
@@ -565,7 +565,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E0C82BCC238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "iOS4-PidhorodetskaTests" */ = {
+		E0C82BCC238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "Currency Converter AppsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0C82BCD238D826D00C6E9D7 /* Debug */,
@@ -574,7 +574,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E0C82BCF238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "iOS4-PidhorodetskaUITests" */ = {
+		E0C82BCF238D826D00C6E9D7 /* Build configuration list for PBXNativeTarget "Currency Converter AppsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0C82BD0238D826D00C6E9D7 /* Debug */,
